@@ -1,2 +1,2 @@
-SLiMS Plugin Skeleton
+SLiMS Plugin - Migrator Inlislite to SLiMS
 ----------
